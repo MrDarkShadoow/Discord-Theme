@@ -1,0 +1,6 @@
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+--HSL-server-icon-size: 45px;
+--HSL-server-spacing: 25px;
+}
