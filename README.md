@@ -1,1 +1,1 @@
-# Frosted-Glass-DarkShadow-
+# Discord Theme
