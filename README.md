@@ -9,3 +9,6 @@
 
 ### Vertical(Plugin):
 <img src="https://cdn.discordapp.com/attachments/636502333718790154/942483561204830258/unknown.png" alt="Vertical">
+
+### LilyPichu:
+<img src="https://cdn.discordapp.com/attachments/636502333718790154/942495735771975821/unknown.png" alr="LilyPichu">
