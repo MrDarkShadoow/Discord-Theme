@@ -7,7 +7,7 @@
 ### FrostedGlass:
 <img src="https://cdn.discordapp.com/attachments/636502333718790154/942483196405243954/unknown.png" alt="FrostedGlass">
 
-### Vertical(Plugin):
+### Vertical:
 <img src="https://cdn.discordapp.com/attachments/636502333718790154/942483561204830258/unknown.png" alt="Vertical">
 
 ### LilyPichu:
