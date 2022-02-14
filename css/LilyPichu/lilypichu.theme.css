@@ -1,0 +1,68 @@
+/**
+* @name LilyPichu
+* @author Nyria#3863
+* @description A theme based on @Melonturtle_ stream design
+* @invite rtBQX5D3bD
+* @version 1.2
+* @donate https://ko-fi.com/nyria
+*/
+
+:root {
+
+/* --- User variables --- */
+
+/* Jumping GIF */
+
+/* Background (if you want an image replace it by : 
+
+--background-tertiary-alt: url("image-link"); without that => */
+--background-tertiary-alt:url("https://cdn.discordapp.com/attachments/636502333718790154/942136446863704074/image1.jpg");
+
+/* Border-radius for the whole theme */
+--border-radius: 20px;
+
+}
+
+.theme-dark {
+
+    /* Text */
+
+    /* Background color */
+
+
+    /* Scrollbar */
+
+    --scrollbar-thin-track: transparent;
+
+    /* Other */
+    --deprecated-quickswitcher-input-background: var(--background-primary);
+}
+
+
+    /* Buttons */
+
+
+    /* Hover background */
+
+
+.theme-light {
+
+    /* Text */
+
+
+    /* Background color */
+
+
+    /* Scrollbar */
+
+    --scrollbar-thin-track: transparent;
+
+    /* Other */
+}
+
+
+
+    /* Buttons */
+
+
+    /* Hover background */
